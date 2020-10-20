@@ -8,7 +8,8 @@ $bd_config = array(
     'host' => 'localhost',
     'database' => 'miley',
     'user' => 'root',
-    'pass' => ''
+    'pass' => '',
+    'test' => 'adfasdf'
 );
 
 /*
