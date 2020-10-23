@@ -1,0 +1,9 @@
+From: <javiergarciateruelavila@gmail.com>
+To: <javiergarciateruelavila@gmail.com>
+Subject: Test Message
+In-Reply-To: <593f2fb4.c342630a.db6b9.9723@mx.google.com>
+References: <593f2fb4.c342630a.db6b9.9723@mx.google.com>
+This is the test email body.
+Some more text.
+Best,
+So and So
